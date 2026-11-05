@@ -1,0 +1,44 @@
+Name                 Pid             Uid            
+init                 1                              
+.udevd               776                            
+.portmap             1429            1              
+.rpc.statd           1441            102            
+.dhclient3           1624                           
+.rsyslogd            1661                           
+.rsyslogd            1663                           
+.rsyslogd            1664                           
+.acpid               1672                           
+.sshd                1687                           
+.exim4               1942            101            
+.cron                1973                           
+.login               1990                           
+..bash               2042                           
+...memdump           2168                           
+...nc                2169                           
+.getty               1992                           
+.getty               1994                           
+.getty               1996                           
+.getty               1998                           
+.getty               2000                           
+.sh                  2065                           
+[kthreadd]           2                              
+.[migration/0]       3                              
+.[ksoftirqd/0]       4                              
+.[watchdog/0]        5                              
+.[events/0]          6                              
+.[khelper]           7                              
+.[kblockd/0]         39                             
+.[kacpid]            41                             
+.[kacpi_notify]      42                             
+.[kseriod]           86                             
+.[pdflush]           123                            
+.[pdflush]           124                            
+.[kswapd0]           125                            
+.[aio/0]             126                            
+.[ksuspend_usbd]     581                            
+.[khubd]             582                            
+.[ata/0]             594                            
+.[ata_aux]           595                            
+.[scsi_eh_0]         634                            
+.[kjournald]         700                            
+.[kpsmoused]         1110                           

@@ -1,0 +1,55 @@
+Jan 18 09:31:32 victoria dhclient: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 8
+Jan 18 09:31:32 victoria dhclient: DHCPOFFER from 10.0.2.2
+Jan 18 09:31:32 victoria dhclient: DHCPREQUEST on eth0 to 255.255.255.255 port 67
+Jan 18 09:31:32 victoria dhclient: DHCPACK from 10.0.2.2
+Jan 18 09:31:32 victoria dhclient: bound to 10.0.2.15 -- renewal in 34568 seconds.
+Jan 18 09:33:03 victoria init: Switching to runlevel: 0
+Jan 18 09:33:04 victoria rpc.statd[1452]: Caught signal 15, un-registering and exiting.
+Jan 18 10:02:13 victoria init: Switching to runlevel: 0
+Jan 18 10:02:13 victoria rpc.statd[1422]: Caught signal 15, un-registering and exiting.
+Jan 18 10:56:40 victoria dhclient: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 7
+Jan 18 10:56:40 victoria dhclient: DHCPOFFER from 10.0.2.2
+Jan 18 10:56:40 victoria dhclient: DHCPREQUEST on eth0 to 255.255.255.255 port 67
+Jan 18 10:56:40 victoria dhclient: DHCPACK from 10.0.2.2
+Jan 18 10:56:40 victoria dhclient: bound to 10.0.2.15 -- renewal in 41107 seconds.
+Jan 18 11:00:40 victoria init: Switching to runlevel: 0
+Jan 18 11:00:41 victoria rpc.statd[1435]: Caught signal 15, un-registering and exiting.
+Jan 18 17:13:12 victoria dhclient: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3
+Jan 18 17:13:12 victoria dhclient: DHCPOFFER from 192.168.56.100
+Jan 18 17:13:12 victoria dhclient: DHCPREQUEST on eth0 to 255.255.255.255 port 67
+Jan 18 17:13:12 victoria dhclient: DHCPACK from 192.168.56.100
+Jan 18 17:13:12 victoria dhclient: bound to 192.168.56.101 -- renewal in 1583 seconds.
+Jan 18 17:13:49 victoria init: Switching to runlevel: 6
+Jan 18 17:13:49 victoria rpc.statd[1433]: Caught signal 15, un-registering and exiting.
+Jan 18 17:20:55 victoria init: Switching to runlevel: 0
+Jan 18 17:20:56 victoria rpc.statd[1427]: Caught signal 15, un-registering and exiting.
+Feb  6 12:56:48 victoria init: Switching to runlevel: 0
+Feb  6 12:56:49 victoria rpc.statd[1462]: Caught signal 15, un-registering and exiting.
+Feb  6 13:03:38 victoria dhclient: There is already a pid file /var/run/dhclient.eth0.pid with pid 1603
+Feb  6 13:03:38 victoria dhclient: killed old client process, removed PID file
+Feb  6 13:03:38 victoria dhclient: Internet Systems Consortium DHCP Client V3.1.1
+Feb  6 13:03:38 victoria dhclient: Copyright 2004-2008 Internet Systems Consortium.
+Feb  6 13:03:38 victoria dhclient: All rights reserved.
+Feb  6 13:03:38 victoria dhclient: For info, please visit http://www.isc.org/sw/dhcp/
+Feb  6 13:03:38 victoria dhclient: 
+Feb  6 13:03:38 victoria dhclient: Listening on LPF/eth0/08:00:27:ea:81:9b
+Feb  6 13:03:38 victoria dhclient: Sending on   LPF/eth0/08:00:27:ea:81:9b
+Feb  6 13:03:38 victoria dhclient: Sending on   Socket/fallback
+Feb  6 13:03:38 victoria dhclient: DHCPRELEASE on eth0 to 10.0.2.2 port 67
+Feb  6 13:03:53 victoria init: Switching to runlevel: 6
+Feb  6 13:03:54 victoria rpc.statd[1445]: Caught signal 15, un-registering and exiting.
+Feb  6 13:31:12 victoria dhclient: DHCPREQUEST on eth0 to 192.168.56.100 port 67
+Feb  6 13:31:12 victoria dhclient: DHCPACK from 192.168.56.100
+Feb  6 13:31:12 victoria dhclient: bound to 192.168.56.102 -- renewal in 1411 seconds.
+Feb  6 13:54:43 victoria dhclient: DHCPREQUEST on eth0 to 192.168.56.100 port 67
+Feb  6 13:54:43 victoria dhclient: DHCPACK from 192.168.56.100
+Feb  6 13:54:43 victoria dhclient: bound to 192.168.56.102 -- renewal in 1543 seconds.
+Feb  6 14:20:26 victoria dhclient: DHCPREQUEST on eth0 to 192.168.56.100 port 67
+Feb  6 14:20:26 victoria dhclient: DHCPACK from 192.168.56.100
+Feb  6 14:20:26 victoria dhclient: bound to 192.168.56.102 -- renewal in 1644 seconds.
+Feb  6 14:47:50 victoria dhclient: DHCPREQUEST on eth0 to 192.168.56.100 port 67
+Feb  6 14:47:50 victoria dhclient: DHCPACK from 192.168.56.100
+Feb  6 14:47:50 victoria dhclient: bound to 192.168.56.102 -- renewal in 1352 seconds.
+Feb  6 15:10:22 victoria dhclient: DHCPREQUEST on eth0 to 192.168.56.100 port 67
+Feb  6 15:10:22 victoria dhclient: DHCPACK from 192.168.56.100
+Feb  6 15:10:22 victoria dhclient: bound to 192.168.56.102 -- renewal in 1435 seconds.

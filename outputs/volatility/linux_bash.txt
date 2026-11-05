@@ -1,0 +1,62 @@
+Pid      Name                 Command Time                   Command
+-------- -------------------- ------------------------------ -------
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get remove exim4
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get remove exim4-base
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get remove exim4-daemon-light
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -l | grep exim
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get remove exim4-config
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ls -a
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg --purge
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   pwd
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get remove exim
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -l | grep exim
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   mkdir exim4
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -i exim4-config_4.69-9_all.deb 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   cd exim4/
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   scp yom@192.168.56.1:/home/yom/temporary/exmi4/* .
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -i exim4-base_4.69-9_i386.deb 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -i exim4-base_4.69-9_i386.deb 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -i --ignore-depends=exim4-base,exim4-daemon-light exim4_4.69-9_all.deb 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -i exim4_4.69-9_all.deb 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   /etc/init.d/networking restart
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ifconfig 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   /etc/init.d/networking start
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   halt
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get install openssh-server
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get install openssh-server
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   cd /etc/exim4/
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   scp yom@192.168.56.1:/home/yom/temporary/exim4/* .
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dpkg -i exim4-daemon-light_4.69-9_i386.deb 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   cd ..
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ls
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   rm -rf exim4/
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   vi .bash
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   vi .ssh/known_hosts
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   vi .bash_history 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   vi update-exim4.conf.conf 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   update-exim4.conf
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   halt
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   reboot
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   whereis gcc
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   whereis memdump
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get install memdump
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   halt
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ifconfig 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ping 192.168.56.1
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   mount
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   sudo dd if=/dev/sda | nc 192.168.56.1 4444
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dd if=/dev/sda | nc 192.168.56.1 4444
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   dd if=/dev/sda1 | nc 192.168.56.1 4444
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get install memdump
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   netstat  -ant
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get install ddrescue
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   apt-get install dcfldd
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ls /dev/kmem 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ls /dev/mem
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   halt
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ifconfig 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   ifconfig 
+    2042 bash                 2011-02-06 14:04:39 UTC+0000   reboot
+    2042 bash                 2011-02-06 14:04:46 UTC+0000   ifconfig 
+    2042 bash                 2011-02-06 14:24:43 UTC+0000   dd if=/dev/sda1 | nc 192.168.56.1 8888
+    2042 bash                 2011-02-06 14:42:29 UTC+0000   memdump | nc 192.168.56.1 8888

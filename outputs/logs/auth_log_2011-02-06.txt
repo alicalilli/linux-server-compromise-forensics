@@ -1,0 +1,79 @@
+Feb  6 11:37:02 victoria sshd[1715]: Server listening on :: port 22.
+Feb  6 11:37:02 victoria sshd[1715]: Server listening on 0.0.0.0 port 22.
+Feb  6 11:41:49 victoria login[2018]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Feb  6 11:41:49 victoria login[2039]: ROOT LOGIN  on 'tty1'
+Feb  6 12:17:01 victoria CRON[2053]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 12:17:01 victoria CRON[2053]: pam_unix(cron:session): session closed for user root
+Feb  6 12:59:45 victoria sshd[1704]: Server listening on :: port 22.
+Feb  6 12:59:45 victoria sshd[1704]: Server listening on 0.0.0.0 port 22.
+Feb  6 13:02:48 victoria login[2007]: pam_unix(login:session): session opened for user root by (uid=0)
+Feb  6 13:02:48 victoria login[2032]: ROOT LOGIN  on 'tty1'
+Feb  6 13:04:43 victoria sshd[1687]: Server listening on :: port 22.
+Feb  6 13:04:43 victoria sshd[1687]: Server listening on 0.0.0.0 port 22.
+Feb  6 13:17:01 victoria CRON[2010]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 13:17:01 victoria CRON[2010]: pam_unix(cron:session): session closed for user root
+Feb  6 14:17:01 victoria CRON[2026]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 14:17:01 victoria CRON[2026]: pam_unix(cron:session): session closed for user root
+Feb  6 15:04:39 victoria login[1990]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Feb  6 15:04:39 victoria login[2042]: ROOT LOGIN  on 'tty1'
+Feb  6 15:16:20 victoria sshd[2085]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:16:20 victoria sshd[2085]: Failed none for invalid user ulysses from 192.168.56.1 port 34431 ssh2
+Feb  6 15:16:24 victoria sshd[2085]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:16:24 victoria sshd[2085]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
+Feb  6 15:16:26 victoria sshd[2085]: Failed password for invalid user ulysses from 192.168.56.1 port 34431 ssh2
+Feb  6 15:16:30 victoria sshd[2085]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:16:32 victoria sshd[2085]: Failed password for invalid user ulysses from 192.168.56.1 port 34431 ssh2
+Feb  6 15:16:37 victoria sshd[2085]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:16:40 victoria sshd[2085]: Failed password for invalid user ulysses from 192.168.56.1 port 34431 ssh2
+Feb  6 15:16:40 victoria sshd[2085]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
+Feb  6 15:16:41 victoria sshd[2088]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:16:41 victoria sshd[2088]: Failed none for invalid user ulysses from 192.168.56.1 port 34441 ssh2
+Feb  6 15:16:44 victoria sshd[2088]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:16:44 victoria sshd[2088]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
+Feb  6 15:16:46 victoria sshd[2088]: Failed password for invalid user ulysses from 192.168.56.1 port 34441 ssh2
+Feb  6 15:16:49 victoria sshd[2088]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:16:51 victoria sshd[2088]: Failed password for invalid user ulysses from 192.168.56.1 port 34441 ssh2
+Feb  6 15:16:54 victoria sshd[2088]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:16:56 victoria sshd[2088]: Failed password for invalid user ulysses from 192.168.56.1 port 34441 ssh2
+Feb  6 15:16:56 victoria sshd[2088]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
+Feb  6 15:16:58 victoria sshd[2090]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:16:58 victoria sshd[2090]: Failed none for invalid user ulysses from 192.168.56.1 port 34442 ssh2
+Feb  6 15:16:59 victoria sshd[2090]: Failed password for invalid user ulysses from 192.168.56.1 port 34442 ssh2
+Feb  6 15:16:59 victoria sshd[2090]: Failed password for invalid user ulysses from 192.168.56.1 port 34442 ssh2
+Feb  6 15:17:00 victoria sshd[2090]: Failed password for invalid user ulysses from 192.168.56.1 port 34442 ssh2
+Feb  6 15:17:01 victoria sshd[2092]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:17:01 victoria sshd[2092]: Failed none for invalid user ulysses from 192.168.56.1 port 34443 ssh2
+Feb  6 15:17:01 victoria CRON[2094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 15:17:02 victoria CRON[2094]: pam_unix(cron:session): session closed for user root
+Feb  6 15:17:02 victoria sshd[2092]: Failed password for invalid user ulysses from 192.168.56.1 port 34443 ssh2
+Feb  6 15:17:02 victoria sshd[2092]: Failed password for invalid user ulysses from 192.168.56.1 port 34443 ssh2
+Feb  6 15:17:02 victoria sshd[2092]: Failed password for invalid user ulysses from 192.168.56.1 port 34443 ssh2
+Feb  6 15:17:03 victoria sshd[2097]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:17:03 victoria sshd[2097]: Failed none for invalid user ulysses from 192.168.56.1 port 34444 ssh2
+Feb  6 15:17:05 victoria sshd[2097]: Failed password for invalid user ulysses from 192.168.56.1 port 34444 ssh2
+Feb  6 15:17:07 victoria sshd[2097]: Failed password for invalid user ulysses from 192.168.56.1 port 34444 ssh2
+Feb  6 15:17:07 victoria sshd[2097]: Failed password for invalid user ulysses from 192.168.56.1 port 34444 ssh2
+Feb  6 15:17:08 victoria sshd[2099]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:17:08 victoria sshd[2099]: Failed none for invalid user ulysses from 192.168.56.1 port 34445 ssh2
+Feb  6 15:17:12 victoria sshd[2099]: Failed password for invalid user ulysses from 192.168.56.1 port 34445 ssh2
+Feb  6 15:17:12 victoria sshd[2099]: Failed password for invalid user ulysses from 192.168.56.1 port 34445 ssh2
+Feb  6 15:17:12 victoria sshd[2099]: Failed password for invalid user ulysses from 192.168.56.1 port 34445 ssh2
+Feb  6 15:19:25 victoria sshd[2153]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:19:25 victoria sshd[2153]: Failed none for invalid user ulysses from 192.168.56.1 port 34475 ssh2
+Feb  6 15:19:27 victoria sshd[2153]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:19:27 victoria sshd[2153]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
+Feb  6 15:19:29 victoria sshd[2153]: Failed password for invalid user ulysses from 192.168.56.1 port 34475 ssh2
+Feb  6 15:19:32 victoria sshd[2153]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:19:34 victoria sshd[2153]: Failed password for invalid user ulysses from 192.168.56.1 port 34475 ssh2
+Feb  6 15:19:35 victoria sshd[2153]: Failed password for invalid user ulysses from 192.168.56.1 port 34475 ssh2
+Feb  6 15:19:35 victoria sshd[2153]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
+Feb  6 15:20:54 victoria sshd[2157]: Invalid user ulysses from 192.168.56.1
+Feb  6 15:20:54 victoria sshd[2157]: Failed none for invalid user ulysses from 192.168.56.1 port 44616 ssh2
+Feb  6 15:20:58 victoria sshd[2157]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:20:58 victoria sshd[2157]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
+Feb  6 15:21:00 victoria sshd[2157]: Failed password for invalid user ulysses from 192.168.56.1 port 44616 ssh2
+Feb  6 15:21:03 victoria sshd[2157]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:21:05 victoria sshd[2157]: Failed password for invalid user ulysses from 192.168.56.1 port 44616 ssh2
+Feb  6 15:21:09 victoria sshd[2157]: pam_unix(sshd:auth): check pass; user unknown
+Feb  6 15:21:10 victoria sshd[2157]: Failed password for invalid user ulysses from 192.168.56.1 port 44616 ssh2
+Feb  6 15:21:10 victoria sshd[2157]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1 
